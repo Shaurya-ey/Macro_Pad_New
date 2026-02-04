@@ -13,6 +13,9 @@ Working on a Macropad (Beginner Build ).
 # 4. Case and Assembly
 <img width="954" height="539" alt="Macropad CAD (1)" src="https://github.com/user-attachments/assets/8cc1cc50-8182-4358-ac86-e6edb943d9e1" />
 
-
 <img width="994" height="475" alt="Macropad&#39;s Base" src="https://github.com/user-attachments/assets/5529c856-f2e1-4ee8-ac47-17e62162ad84" />
+<img width="1016" height="525" alt="Macropad&#39;s Top Case" src="https://github.com/user-attachments/assets/ba3f9ad3-df0a-4c6c-ae06-c43514c558d8" />
+
+# 5. Bill of Materials (BOM)
+
 
