@@ -10,3 +10,9 @@ Working on a Macropad (Beginner Build ).
 # 3. PCB Layout
 <img width="1226" height="622" alt="Pcb routed" src="https://github.com/user-attachments/assets/4be039f4-e079-4935-a086-65c929378fde" />
 
+# 4. Case and Assembly
+<img width="954" height="539" alt="Macropad CAD (1)" src="https://github.com/user-attachments/assets/8cc1cc50-8182-4358-ac86-e6edb943d9e1" />
+
+
+<img width="994" height="475" alt="Macropad&#39;s Base" src="https://github.com/user-attachments/assets/5529c856-f2e1-4ee8-ac47-17e62162ad84" />
+
