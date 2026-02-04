@@ -17,5 +17,9 @@ Working on a Macropad (Beginner Build ).
 <img width="1016" height="525" alt="Macropad&#39;s Top Case" src="https://github.com/user-attachments/assets/ba3f9ad3-df0a-4c6c-ae06-c43514c558d8" />
 
 # 5. Bill of Materials (BOM)
-
-
+* 1x Seeed XIAO RP2040
+* 1x EC11 Rotary Encoders
+* 3x SK6812 MINI-E LEDs
+* 12x 1N4148 Diodes 
+* 12x MX-Style switches
+* 4x M3x16mm screws
