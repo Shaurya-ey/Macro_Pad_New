@@ -25,10 +25,12 @@ Working on a Macropad (Beginner Build).
 <img width="949" height="517" alt="Macropad CAD (2)" src="https://github.com/user-attachments/assets/84cb7454-4089-4aee-ac29-73b3c1f9d573" />
 
 # 2. Schematic
-<img width="947" height="651" alt="Pcb Schematic" src="https://github.com/user-attachments/assets/8b3e9678-5fff-41f0-8490-dd59fdff1a5f" />
+<img width="944" height="648" alt="PCB Schematic" src="https://github.com/user-attachments/assets/f7ba3bc1-e4d0-44df-b475-4b7a608c05d4" />
+
 
 # 3. PCB Layout
-<img width="1226" height="622" alt="Pcb routed" src="https://github.com/user-attachments/assets/4be039f4-e079-4935-a086-65c929378fde" />
+<img width="1230" height="626" alt="PCB Layout" src="https://github.com/user-attachments/assets/1e577265-c50b-4f92-9f1a-f5e32f725f64" />
+
 
 # 4. Case and Assembly
 <img width="954" height="539" alt="Macropad CAD (1)" src="https://github.com/user-attachments/assets/8cc1cc50-8182-4358-ac86-e6edb943d9e1" />
