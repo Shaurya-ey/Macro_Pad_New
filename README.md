@@ -1,6 +1,6 @@
 # Macro_Pad_New
 Working on a Macropad (Beginner Build).
-* Dimensions:- 89.050x83.469
+* Dimensions:- 89.050 x 83.469 mm
 
 ## About The Project
 
