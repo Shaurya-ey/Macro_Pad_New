@@ -22,21 +22,26 @@ Working on a Macropad (Beginner Build).
 - Modify the firmware to change key mappings or encoder behavior
 
 # 1. Overall Hackpad
-<img width="949" height="517" alt="Macropad CAD (2)" src="https://github.com/user-attachments/assets/84cb7454-4089-4aee-ac29-73b3c1f9d573" />
+<img width="834" height="569" alt="Macropad Assembly - 1" src="https://github.com/user-attachments/assets/ef182a1e-87d2-41c5-a256-5d56cb9a6fe9" />
+
 
 # 2. Schematic
-<img width="944" height="648" alt="PCB Schematic" src="https://github.com/user-attachments/assets/f7ba3bc1-e4d0-44df-b475-4b7a608c05d4" />
+<img width="947" height="650" alt="PCB Schematic" src="https://github.com/user-attachments/assets/89ed94ec-2225-41b0-8d5d-73a960137e40" />
+
 
 
 # 3. PCB Layout
-<img width="1230" height="626" alt="PCB Layout" src="https://github.com/user-attachments/assets/1e577265-c50b-4f92-9f1a-f5e32f725f64" />
+<img width="631" height="675" alt="PCB Layout" src="https://github.com/user-attachments/assets/7d4eb804-e458-4177-b5ec-811af1fa30be" />
+
 
 
 # 4. Case and Assembly
-<img width="954" height="539" alt="Macropad CAD (1)" src="https://github.com/user-attachments/assets/8cc1cc50-8182-4358-ac86-e6edb943d9e1" />
+<img width="941" height="565" alt="Macropad Assembly - 2" src="https://github.com/user-attachments/assets/64216d4f-536c-4d3a-97a1-7ecca73405aa" />
 
-<img width="994" height="475" alt="Macropad&#39;s Base" src="https://github.com/user-attachments/assets/5529c856-f2e1-4ee8-ac47-17e62162ad84" />
-<img width="1016" height="525" alt="Macropad&#39;s Top Case" src="https://github.com/user-attachments/assets/ba3f9ad3-df0a-4c6c-ae06-c43514c558d8" />
+<img width="900" height="518" alt="Macropad&#39;s Bottom Case" src="https://github.com/user-attachments/assets/481a5213-ffa8-49b1-94d6-c7da9e0ddf67" />
+
+<img width="900" height="401" alt="Macropad&#39;s Top case" src="https://github.com/user-attachments/assets/8722db96-e5c1-4b87-81e1-345adc6b063b" />
+
 
 # 5. Bill of Materials (BOM)
 * 1x Seeed XIAO RP2040
