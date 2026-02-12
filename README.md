@@ -37,7 +37,7 @@ Working on a Macropad (Beginner Build).
 
 
 # 4. Case and Assembly
-<img width="941" height="565" alt="Macropad Assembly - 2" src="https://github.com/user-attachments/assets/64216d4f-536c-4d3a-97a1-7ecca73405aa" />
+<img width="848" height="616" alt="Macropad Assembly - 1" src="https://github.com/user-attachments/assets/b2e075d9-1ed0-4988-8427-4078564ce32a" />
 
 <img width="900" height="518" alt="Macropad&#39;s Bottom Case" src="https://github.com/user-attachments/assets/481a5213-ffa8-49b1-94d6-c7da9e0ddf67" />
 
