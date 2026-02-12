@@ -23,7 +23,7 @@ Working on a Macropad (Beginner Build).
 - Modify the firmware to change key mappings or encoder behavior
 
 # 1. Overall Hackpad
-<img width="834" height="569" alt="Macropad Assembly - 1" src="https://github.com/user-attachments/assets/ef182a1e-87d2-41c5-a256-5d56cb9a6fe9" />
+
 
 
 # 2. Schematic
