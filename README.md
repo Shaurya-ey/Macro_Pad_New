@@ -24,6 +24,7 @@ Working on a Macropad (Beginner Build).
 
 # 1. Overall Hackpad
 
+<img width="661" height="456" alt="Macropad Assembly - 2" src="https://github.com/user-attachments/assets/1fb3b002-51ac-4be3-afb1-0de2cc285b9f" />
 
 
 # 2. Schematic
