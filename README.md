@@ -9,7 +9,7 @@ Working on a Macropad (Beginner Build).
 - This is a Custom built 3×4 macropad built using the Seeed Studio XIAO RP2040
 - Includes 12 mechanical keys and 1 rotary encoder
 - It will help in multitasking, fast reflexes and especially for video editing, designing CAD models and Coding.
-- This custom macropad can be switched between 3 modes, which are:
+- This custom macropad can be switched between 3 modes, which are :-
   - Coding
   - Video Editing
   - Cad Modelling 
