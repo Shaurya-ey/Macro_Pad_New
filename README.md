@@ -1,10 +1,11 @@
 # Macro_Pad_New
 Working on a Macropad (Beginner Build).
-* Dimensions:- 89.050 x 83.469 mm
+
 
 ## About The Project
 
 ### Project Description
+- Dimensions:- 89.050 x 83.469 mm
 - This is a Custom built 3×4 macropad built using the Seeed Studio XIAO RP2040
 - Includes 12 mechanical keys and 1 rotary encoder
 - It will help in multitasking, fast reflexes and especially for video editing, designing CAD models and Coding.
