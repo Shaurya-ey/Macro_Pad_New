@@ -5,22 +5,26 @@ Working on a Macropad (Beginner Build).
 ## About The Project
 
 ### Project Description
-- Custom 3×4 macropad built using the Seeed Studio XIAO RP2040
+- This is a Custom built 3×4 macropad built using the Seeed Studio XIAO RP2040
 - Includes 12 mechanical keys and 1 rotary encoder
-- Designed for shortcuts, macros, and media control in a compact layout
+- It will help in multitasking, fast reflexes and especially for video editing, designing CAD models and Coding.
+- This custom macropad can be switched between 3 modes, which are:
+  - Coding
+  - Video Editing
+  - Cad Modelling 
 
 ### Why I Made This Project
-- To learn PCB design, microcontroller basics, and firmware development
-- To experiment with custom input devices and hardware–software integration
+- As i'm more into electronics, firmware development and soldering crazy stuffs.
+- Wanted to learn something new like how to prepare schematics,routing for Pcb's.
 
 ### How to Use This Project
-- Connect the macropad to your computer using a USB cable
-- The device is detected as a standard USB HID keyboard
-- Keys and rotary encoder can be programmed for:
-  - Keyboard shortcuts
-  - Media controls
-  - Mode switching or custom macros
-- Modify the firmware to change key mappings or encoder behavior
+- Connect the macropad to your computer  theough a Type-C USB cable.
+- The device is detected as a standard USB HID keyboard.
+- The Keys and Rotary Encoder can be Reprogrammed for:
+  - Shortcuts (i.e: Copy, paste shortcuts)
+  - Music controls
+  - Mode switching (Mine includes 3 modes)
+- And for overall Firmware.
 
 # 1. Overall Hackpad
 
