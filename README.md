@@ -13,7 +13,7 @@ Working on a Macropad (Beginner Build).
   - Coding
   - Video Editing
   - Cad Modelling 
-- The 3 LED'S are there for depicting which we're in :-
+- The 3 LED'S are there for depicting in which mode we're in :-
   - RED   -> Video Editting
   - BLUE  -> CAD Modelling
   - GREEN -> Video Editting
