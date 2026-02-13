@@ -12,6 +12,10 @@ Working on a Macropad (Beginner Build).
   - Coding
   - Video Editing
   - Cad Modelling 
+- The 3 LED'S are there for depicting which we're in :-
+  - RED   -> Video Editting
+  - BLUE  -> CAD Modelling
+  - GREEN -> Video Editting
 
 ### Why I Made This Project
 - As i'm more into electronics, firmware development and soldering crazy stuffs.
